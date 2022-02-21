@@ -2,8 +2,8 @@
 Quando lemos um texto, conseguimos compreender o que é o título, o que é o parágrafo, uma lista, etc...  <br>
 Entretanto, o nosso navegador (Chrome, Opera, Edge...) precisa da indicação do que é cada elemento do site que estamos fazendo.<br>
 Para isso serve o HTML.
-- Marcar os elementos (título, parágrafo, imagem...)
-- Apresentar o conteúdo (texto do título, do parágrafo, o arquivo da imágem...)
+- Marcar os elementos (título, parágrafo, imagem, etc)
+- Apresentar o conteúdo (texto do título, do parágrafo, o arquivo da imágem, etc)
 
 #### por que temos que criar o nosso html principal com o nome "index.html" ?
 Fazemos isso porque quando fizermos o upload de todos os arquivos do nosso site em um servidor, não precisaremos indicar qual página é para abrir primeiro. <br>
