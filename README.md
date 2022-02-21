@@ -1,8 +1,7 @@
 # Scratch_front-end
 
-#### Aprendendo o básico do front-end:
-###### HTML
-###### CSS
-###### JavaScript
+<a href="HTML.md">HTML</a> <br>
+<a href="CSS.md">CSS</a> <br>
+<a href="JS.md">JavaScript</a> <br>
 
 Todos os aprendizados estarão documentados neste repositório!!
